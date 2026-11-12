@@ -1,1 +1,2 @@
 # SUNIDO-JADE-VALERIE-PASCUA
+A personal portfolio website has been designed as part of my CC101 and CC102 subjects. The website demonstrates my personal details, skills, interests, education and achievements. It also reflects on my learning journey as a college student and someone with an interest in technology and computer programming this project allowed me to build up my knowledge and skills in web design, HTML and CSS demonstrating my creativity and personality.
